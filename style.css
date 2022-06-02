@@ -1,0 +1,52 @@
+.logo{
+    background: none;
+    margin-top: 13ch;
+    margin-left: 65ch;
+}
+input{
+    border-radius: 25px solid lightgrey;
+    margin-top: 2%;
+    margin-left: 50.5ch;
+    width: 550px;
+    height: 35px;
+    border-width: 0.01px;
+    border-radius: 25px;
+    padding-left: 0.5cm;
+}
+p{
+    background: none;
+    margin-top: 3%;
+    margin-left: 38%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.para{
+    background: none;
+    margin-right: 46ch;
+    margin-top: 3%;
+}
+.button1{
+    background: none;
+    margin-top: 5ch;
+    margin-left: 83ch;
+    width: 100px;
+    height: 35px;
+    background-color: #4285F4;
+    border-color: #4285F4;
+    color: white;
+}
+.btn2{
+    margin-top: 3ch;
+    margin-left: 160ch;
+}
+.app{
+    background: none;
+    margin-left: 165ch;
+    margin-top: 3ch;
+}
+.p12{
+    margin-left: 140ch;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    text-decoration: none;
+}
